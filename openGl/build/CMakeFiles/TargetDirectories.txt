@@ -1,3 +1,0 @@
-/Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles/hello_window.dir
-/Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles/edit_cache.dir
-/Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles/rebuild_cache.dir
