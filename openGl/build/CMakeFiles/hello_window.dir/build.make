@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hassanbaig/Desktop/openGl
+CMAKE_SOURCE_DIR = /Users/hassanbaig/Desktop/exploring/openGl
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hassanbaig/Desktop/openGl/build
+CMAKE_BINARY_DIR = /Users/hassanbaig/Desktop/exploring/openGl/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hello_window.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/hello_window.dir/codegen:
 .PHONY : CMakeFiles/hello_window.dir/codegen
 
 CMakeFiles/hello_window.dir/src/main.cpp.o: CMakeFiles/hello_window.dir/flags.make
-CMakeFiles/hello_window.dir/src/main.cpp.o: /Users/hassanbaig/Desktop/openGl/src/main.cpp
+CMakeFiles/hello_window.dir/src/main.cpp.o: /Users/hassanbaig/Desktop/exploring/openGl/src/main.cpp
 CMakeFiles/hello_window.dir/src/main.cpp.o: CMakeFiles/hello_window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/hassanbaig/Desktop/openGl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_window.dir/src/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/main.cpp.o -MF CMakeFiles/hello_window.dir/src/main.cpp.o.d -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /Users/hassanbaig/Desktop/openGl/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_window.dir/src/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/main.cpp.o -MF CMakeFiles/hello_window.dir/src/main.cpp.o.d -o CMakeFiles/hello_window.dir/src/main.cpp.o -c /Users/hassanbaig/Desktop/exploring/openGl/src/main.cpp
 
 CMakeFiles/hello_window.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello_window.dir/src/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hassanbaig/Desktop/openGl/src/main.cpp > CMakeFiles/hello_window.dir/src/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hassanbaig/Desktop/exploring/openGl/src/main.cpp > CMakeFiles/hello_window.dir/src/main.cpp.i
 
 CMakeFiles/hello_window.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello_window.dir/src/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hassanbaig/Desktop/openGl/src/main.cpp -o CMakeFiles/hello_window.dir/src/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hassanbaig/Desktop/exploring/openGl/src/main.cpp -o CMakeFiles/hello_window.dir/src/main.cpp.s
 
 CMakeFiles/hello_window.dir/src/glad.c.o: CMakeFiles/hello_window.dir/flags.make
-CMakeFiles/hello_window.dir/src/glad.c.o: /Users/hassanbaig/Desktop/openGl/src/glad.c
+CMakeFiles/hello_window.dir/src/glad.c.o: /Users/hassanbaig/Desktop/exploring/openGl/src/glad.c
 CMakeFiles/hello_window.dir/src/glad.c.o: CMakeFiles/hello_window.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/hassanbaig/Desktop/openGl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello_window.dir/src/glad.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/glad.c.o -MF CMakeFiles/hello_window.dir/src/glad.c.o.d -o CMakeFiles/hello_window.dir/src/glad.c.o -c /Users/hassanbaig/Desktop/openGl/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/hello_window.dir/src/glad.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/hello_window.dir/src/glad.c.o -MF CMakeFiles/hello_window.dir/src/glad.c.o.d -o CMakeFiles/hello_window.dir/src/glad.c.o -c /Users/hassanbaig/Desktop/exploring/openGl/src/glad.c
 
 CMakeFiles/hello_window.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/hello_window.dir/src/glad.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hassanbaig/Desktop/openGl/src/glad.c > CMakeFiles/hello_window.dir/src/glad.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/hassanbaig/Desktop/exploring/openGl/src/glad.c > CMakeFiles/hello_window.dir/src/glad.c.i
 
 CMakeFiles/hello_window.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/hello_window.dir/src/glad.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hassanbaig/Desktop/openGl/src/glad.c -o CMakeFiles/hello_window.dir/src/glad.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/hassanbaig/Desktop/exploring/openGl/src/glad.c -o CMakeFiles/hello_window.dir/src/glad.c.s
 
 # Object files for target hello_window
 hello_window_OBJECTS = \
@@ -114,7 +114,7 @@ hello_window: CMakeFiles/hello_window.dir/build.make
 hello_window: /opt/homebrew/lib/libglfw.3.4.dylib
 hello_window: /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/System/Library/Frameworks/OpenGL.framework
 hello_window: CMakeFiles/hello_window.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hassanbaig/Desktop/openGl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_window"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable hello_window"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_window.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,6 +126,6 @@ CMakeFiles/hello_window.dir/clean:
 .PHONY : CMakeFiles/hello_window.dir/clean
 
 CMakeFiles/hello_window.dir/depend:
-	cd /Users/hassanbaig/Desktop/openGl/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hassanbaig/Desktop/openGl /Users/hassanbaig/Desktop/openGl /Users/hassanbaig/Desktop/openGl/build /Users/hassanbaig/Desktop/openGl/build /Users/hassanbaig/Desktop/openGl/build/CMakeFiles/hello_window.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/hassanbaig/Desktop/exploring/openGl/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hassanbaig/Desktop/exploring/openGl /Users/hassanbaig/Desktop/exploring/openGl /Users/hassanbaig/Desktop/exploring/openGl/build /Users/hassanbaig/Desktop/exploring/openGl/build /Users/hassanbaig/Desktop/exploring/openGl/build/CMakeFiles/hello_window.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/hello_window.dir/depend
 

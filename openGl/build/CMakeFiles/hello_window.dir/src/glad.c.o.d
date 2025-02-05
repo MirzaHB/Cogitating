@@ -1,5 +1,5 @@
 CMakeFiles/hello_window.dir/src/glad.c.o: \
-  /Users/hassanbaig/Desktop/openGl/src/glad.c \
+  /Users/hassanbaig/Desktop/exploring/openGl/src/glad.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h \
@@ -90,7 +90,7 @@ CMakeFiles/hello_window.dir/src/glad.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/secure/_string.h \
-  /Users/hassanbaig/Desktop/openGl/dependencies/glad/glad.h \
-  /Users/hassanbaig/Desktop/openGl/dependencies/KHR/khrplatform.h \
+  /Users/hassanbaig/Desktop/exploring/openGl/dependencies/glad/glad.h \
+  /Users/hassanbaig/Desktop/exploring/openGl/dependencies/KHR/khrplatform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/dlfcn.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdbool.h

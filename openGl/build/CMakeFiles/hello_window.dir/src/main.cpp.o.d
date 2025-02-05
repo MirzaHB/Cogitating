@@ -1,6 +1,6 @@
 CMakeFiles/hello_window.dir/src/main.cpp.o: \
-  /Users/hassanbaig/Desktop/openGl/src/main.cpp \
-  /Users/hassanbaig/Desktop/openGl/src/config.h \
+  /Users/hassanbaig/Desktop/exploring/openGl/src/main.cpp \
+  /Users/hassanbaig/Desktop/exploring/openGl/src/config.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assertion_handler \
@@ -956,6 +956,6 @@ CMakeFiles/hello_window.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/unistd.h \
-  /Users/hassanbaig/Desktop/openGl/dependencies/glad/glad.h \
-  /Users/hassanbaig/Desktop/openGl/dependencies/KHR/khrplatform.h \
-  /Users/hassanbaig/Desktop/openGl/dependencies/GLFW/glfw3.h
+  /Users/hassanbaig/Desktop/exploring/openGl/dependencies/glad/glad.h \
+  /Users/hassanbaig/Desktop/exploring/openGl/dependencies/KHR/khrplatform.h \
+  /Users/hassanbaig/Desktop/exploring/openGl/dependencies/GLFW/glfw3.h
